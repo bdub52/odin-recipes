@@ -25,3 +25,46 @@ h4 {
     font-size: 22px;
 }
 /* Styling above for Chili Dog Mac & Cheese file */
+.HamHeader {
+    color: rgb(255, 234, 0);
+    text-align: center;
+}
+
+.hamBody {
+    background-color: rgba(255, 166, 0, 0.945);
+}
+
+.ham.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+/* Styling above for Ham, Potato and Broccoli file */
+.pestoHeader {
+    color: rgba(0, 128, 0, 0.938);
+    text-align: center;
+}
+
+.pestoBody {
+    background-color: beige;
+}
+
+.pesto.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firstHeader {
+    color: rgba(0, 128, 0, 0.938);
+}
+
+.secondHeader {
+    color: rgba(0, 128, 0, 0.938);
+}
+
+.thirdHeader {
+    color: rgba(0, 128, 0, 0.938);
+}
+/* Styling above is for Pesto file */
